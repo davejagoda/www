@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/dj
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://davejagoda.com
+  * I am dj (https://keybase.io/dj) on keybase.
+  * I have a public key with fingerprint 735A CA31 B334 150C BBFA  9C8A 7BFF 1D13 7757 0BFA
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "735aca31b334150cbbfa9c8a7bff1d1377570bfa",
+            "host": "keybase.io",
+            "key_id": "7bff1d1377570bfa",
+            "uid": "ec52982bfc59481ff94eb742e58c4000",
+            "username": "dj"
+        },
+        "service": {
+            "hostname": "davejagoda.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397068823,
+    "expire_in": 157680000,
+    "prev": "df6473ec361fca5ed0de28019a0656cbd7da3b16d01fb96e65525972b255589e",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFlUVtIFGEU3jVvrQSZWEEK9YuRpjaX/eeyUS+llAl5q0Wk1n9m/llHc2adXXfz
+sggFK0lFa/agBCZkNyGywhcNNSxIoxtBGqYS4kOWuCFEYdmM5FNPh3POdzucK5s2
+WGzWxtXUpIAz4Zd1fHhRsJTktp9uBIIm1QNHI6jGa0VWVDfWPbqi+oADsDREIqJJ
+gabtJCREQZARL3KIFWSZlEiaZSFLGDOQBSo1r8kwZATkxTmKZsyMxqVIps7/+Lq1
+BRYhxXOUIIuQt3OkLPN2LLB2CkNOtBMEYQK9WFdRDTbQUhUIZgGj9ysiNtOapus7
+5MdVyK1JKEfUagyeR9d8mqidMXaVPp/HYVJ99R4TG8CC65+KS1BUybjZIPix7lU0
+FThIAyn6FFOWpHmWYDiOorMAPutRdOxSTARkGc6IR5g22G/ay4ydpbFIM6QsIogl
+QsIUR5A8IhjIiILESogWSEYiSFngGcxASEGepQQKQsjxGJh31aoacNiNmMhtSHoV
+t4p8dToGQdsFa0q0xWqzxMZEmW+z2DZuXn/mk0txq4e2dUSWjs81DPSULpwHD/tA
+Udme0pLtn/KmDqO0Zx+bVomVtvzk7IIHv+NSMz/PpAy1kiNvRxOLrg9HApOFZSy6
++efpqZczoXT3ouvobPn8i4rRb8Vbg1xteUVHmjt3h54TnxTo7h0aCy7HdqU8ulEc
+t/Bcze8b6LzfRod3Fnz3NP0ctSR/2Du9/0i3vxC3hC+/Hxlvkqcvqs27dt/9kX11
+S8RTBGLib+fPd4nLNV/7Qxlhlr6X1H5yut/bc+LVHfVxqDkqIdLi7PwS/S4T5p1b
+cg52HJgdHE4ckw5OVDjfJO6LWDKqQ8d6266VTbxunascaGCmVm6FndbJoXTwFw==
+=3YjN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dj
+
+==================================================================
